@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    background-color: beige;
+}
+h1 {
+    color: red;
+    font: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 30px;
+}
+
+img.alineadotextoabajo {
+    vertical-align: text-bottom;
+}
+body {
+    text-align: center;
+    background-color: beige;
+}
+h2 {
+    border: red;
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 24;
+
+}
+p {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20;
+}

@@ -4,6 +4,11 @@ Caperucita Roja
 Caperucita
 Capítulo 1: Encargo de mamá
 Érase una vez una niñita que lucía una hermosa capa de color rojo.
+#Caperucita Roja
+
+#Caperucita
+#Capítulo 1: Encargo de mamá
+#Érase una vez una niñita que lucía una hermosa capa de color rojo.
 
 Un día, la mamá de caperucita la llamó y le dijo:
 - Abuelita no se siente bien, he horneado unas galleticas y quiero que se las lleves.
